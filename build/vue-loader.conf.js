@@ -16,7 +16,7 @@ module.exports = {
   transformToRequire: {
     video: ['src', 'poster'],
     source: 'src',
-    img: 'src',
+    img: ['src', 'static'],
     image: 'xlink:href'
   }
 }
