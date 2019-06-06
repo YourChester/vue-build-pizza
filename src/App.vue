@@ -26,6 +26,7 @@ export default {
       'price'
     ]),
   },
+  //Прсто какойто коментарий
 }
 </script>
 
