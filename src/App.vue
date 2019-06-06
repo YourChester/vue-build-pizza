@@ -15,7 +15,6 @@
     </div>
   </div>
 </template>
-
 <script>
 import { mapGetters } from 'vuex'
 
@@ -29,7 +28,6 @@ export default {
   //Прсто какойто коментарий
 }
 </script>
-
 <style>
   #app {
     width: 100%;
