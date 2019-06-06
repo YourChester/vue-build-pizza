@@ -29,6 +29,7 @@ export default {
 }
 </script>
 <style>
+/*Коментарий для стиелй*/
   #app {
     width: 100%;
     height: 100%;
