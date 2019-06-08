@@ -25,11 +25,9 @@ export default {
       'price'
     ]),
   },
-  //Прсто какойто коментарий
 }
 </script>
 <style>
-/*Коментарий для стиелй*/
   #app {
     width: 100%;
     height: 100%;
